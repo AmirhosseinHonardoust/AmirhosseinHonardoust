@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I’m Amirhosein Honardoust  
+# Hi, I’m Amirhosein Honardoust  
 
 🎯 **Data Scientist | Machine Learning Engineer | AI Developer**  
 Passionate about turning data into **intelligent systems** through applied machine learning, deep learning, and automation. I specialize in building end-to-end data pipelines, forecasting models, and AI applications that combine practicality with creativity.  
