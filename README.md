@@ -1,16 +1,16 @@
 # Hi, I’m Amirhosein Honardoust  
 
-🎯 **Data Scientist | Machine Learning Engineer | AI Developer**  
+**Data Scientist | Machine Learning Engineer | AI Developer**  
 Passionate about turning data into **intelligent systems** through applied machine learning, deep learning, and automation. I specialize in building end-to-end data pipelines, forecasting models, and AI applications that combine practicality with creativity.  
 
 ---
 
 ##  About Me  
-- 🎓 Bachelor’s in **Physics**, University of Guilan (2020–2024)  
-- 💼 Former **Data Scientist at Khakroud Company** – automated inventory reconciliation, demand forecasting, and anomaly detection (50K+ monthly records, accuracy boosted by 25%)  
-- 🛠️ Experienced in building **algorithmic trading strategies** (20+ engineered), **ML models** (30+ optimized), and **cloud ML pipelines** delivering 1,000+ predictions daily  
-- 🌐 Certified in **AI & ML** by Microsoft, IBM, DeepLearning.AI, Google Cloud, and more  
-- 🚀 Constantly exploring **AI applications in vision, NLP, time series, and recommender systems**  
+-  Bachelor’s in **Physics**, University of Guilan (2020–2024)  
+-  Former **Data Scientist at Khakroud Company** – automated inventory reconciliation, demand forecasting, and anomaly detection (50K+ monthly records, accuracy boosted by 25%)  
+-  Experienced in building **algorithmic trading strategies** (20+ engineered), **ML models** (30+ optimized), and **cloud ML pipelines** delivering 1,000+ predictions daily  
+-  Certified in **AI & ML** by Microsoft, IBM, DeepLearning.AI, Google Cloud, and more  
+-  Constantly exploring **AI applications in vision, NLP, time series, and recommender systems**  
 
 ---
 
