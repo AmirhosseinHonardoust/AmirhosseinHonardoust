@@ -42,10 +42,10 @@ Passionate about turning data into **intelligent systems** through applied machi
 ---
 
 ##  Connect With Me  
-- 📧 Email: [amirhosseinhonardoust@gmail.com](mailto:amirhosseinhonardoust@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/honardoust](https://linkedin.com/in/honardoust)  
-- 🖥️ GitHub: [github.com/AmirhoseinHonardoust](https://github.com/AmirhoseinHonardoust)  
+-  Email: [amirhosseinhonardoust@gmail.com](mailto:amirhosseinhonardoust@gmail.com)  
+-  LinkedIn: [linkedin.com/in/honardoust](https://linkedin.com/in/honardoust)  
+-  GitHub: [github.com/AmirhoseinHonardoust](https://github.com/AmirhoseinHonardoust)  
 
 ---
 
-✨ *“AI is not just about algorithms, it’s about creating solutions that make life smarter and decisions faster.”*  
+ *“AI is not just about algorithms, it’s about creating solutions that make life smarter and decisions faster.”*  
