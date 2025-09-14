@@ -5,7 +5,7 @@ Passionate about turning data into **intelligent systems** through applied machi
 
 ---
 
-## 📖 About Me  
+##  About Me  
 - 🎓 Bachelor’s in **Physics**, University of Guilan (2020–2024)  
 - 💼 Former **Data Scientist at Khakroud Company** – automated inventory reconciliation, demand forecasting, and anomaly detection (50K+ monthly records, accuracy boosted by 25%)  
 - 🛠️ Experienced in building **algorithmic trading strategies** (20+ engineered), **ML models** (30+ optimized), and **cloud ML pipelines** delivering 1,000+ predictions daily  
@@ -14,7 +14,7 @@ Passionate about turning data into **intelligent systems** through applied machi
 
 ---
 
-## 🛠️ Skills  
+##  Skills  
 - **Languages:** Python, C, C++  
 - **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn  
 - **Data Science:** Pandas, NumPy, SQL, Time Series Forecasting, Anomaly Detection  
@@ -24,7 +24,7 @@ Passionate about turning data into **intelligent systems** through applied machi
 
 ---
 
-## 📂 Featured Projects  
+##  Featured Projects  
 🔹 **Sales Data Analysis** – Synthetic sales dataset generator & analytics (KPIs, charts, reports)  
 🔹 **ARIMA Forecasting** – Time-series forecasting with confidence intervals  
 🔹 **Classification Models** – ML classification with metrics, ROC/PR curves, and feature importance  
@@ -35,13 +35,13 @@ Passionate about turning data into **intelligent systems** through applied machi
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhoseinHonardoust&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinHonardoust&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 - 📧 Email: [amirhosseinhonardoust@gmail.com](mailto:amirhosseinhonardoust@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/honardoust](https://linkedin.com/in/honardoust)  
 - 🖥️ GitHub: [github.com/AmirhoseinHonardoust](https://github.com/AmirhoseinHonardoust)  
