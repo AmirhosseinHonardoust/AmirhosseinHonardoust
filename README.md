@@ -1,51 +1,81 @@
-# Hi, I’m Amirhossein Honardoust  
+# Hi there, I’m AmirHossein Honardoust  
 
-**Data Scientist | Machine Learning Engineer | AI Developer**  
-Passionate about turning data into **intelligent systems** through applied machine learning, deep learning, and automation. I specialize in building end-to-end data pipelines, forecasting models, and AI applications that combine practicality with creativity.  
-
----
-
-##  About Me  
--  Bachelor’s in **Physics**, University of Guilan (2020–2024)  
--  Former **Data Scientist at Khakroud Company** – automated inventory reconciliation, demand forecasting, and anomaly detection (50K+ monthly records, accuracy boosted by 25%)  
--  Experienced in building **algorithmic trading strategies** (20+ engineered), **ML models** (30+ optimized), and **cloud ML pipelines** delivering 1,000+ predictions daily  
--  Certified in **AI & ML** by Microsoft, IBM, DeepLearning.AI, Google Cloud, and more  
--  Constantly exploring **AI applications in vision, NLP, time series, and recommender systems**  
+**Machine Learning Engineer & Data Scientist**  
+Turning AI into real-world systems • Deep Learning • Cloud ML (GCP, Azure, IBM) • Quant & Algorithmic Trading  
 
 ---
 
-##  Skills  
-- **Languages:** Python, C, C++  
-- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn  
-- **Data Science:** Pandas, NumPy, SQL, Time Series Forecasting, Anomaly Detection  
-- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI  
-- **Cloud & Tools:** Microsoft Azure ML, Google Cloud ML, Git, Jupyter, Excel/VBA  
-- **Other:** Algorithmic Trading (MQL5), LLMs, Debugging & Testing  
+##  About Me
+I am a Machine Learning Engineer and Data Scientist with a background in **Physics** and more than **6 years of experience in algorithmic Forex trading, risk management, and AI automation**.  
+
+-  I build **MQL5-based trading bots** with advanced strategies, robust risk controls, and real-time analytics.  
+-  I work across the **full ML lifecycle** — data collection, preprocessing, feature engineering, model development, deployment, and monitoring.  
+-  Experienced with **cloud ML platforms (GCP, Azure, IBM Cloud)** and production ML pipelines.  
+-  Passionate about **time series forecasting, deep learning, NLP, and recommender systems**.  
+-  My mission: **turning AI into production-ready systems** that deliver measurable business impact.  
 
 ---
 
-##  Featured Projects  
-🔹 **Sales Data Analysis** – Synthetic sales dataset generator & analytics (KPIs, charts, reports)  
-🔹 **ARIMA Forecasting** – Time-series forecasting with confidence intervals  
-🔹 **Classification Models** – ML classification with metrics, ROC/PR curves, and feature importance  
-🔹 **Recommender System** – Matrix factorization & personalized recommendations  
-🔹 **Image Captioning (CNN + LSTM)** – Vision + NLP model generating captions for images  
-🔹 **Stock Price Prediction (LSTM)** – Forecasting financial time series with deep learning  
-🔹 **GANs for Image Generation** – Generative models creating synthetic images  
+##  Skills
+
+**Programming & Tools**  
+Python • SQL • Git • REST APIs • Jupyter • Docker  
+
+**Machine Learning & AI**  
+Scikit-learn • XGBoost • PyTorch • TensorFlow • Keras • MLOps  
+
+**Deep Learning**  
+CNNs • LSTMs/RNNs • Transformers • Reinforcement Learning • Generative AI  
+
+**Cloud & Data Engineering**  
+Google Cloud • Microsoft Azure • IBM Cloud • Data Pipelines • Big Data Tools  
+
+**Finance & Quant**  
+MQL5 • Algorithmic Trading • Risk Management • Time Series Forecasting • Quantitative Modeling  
+
+**Visualization & Communication**  
+Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communication  
 
 ---
- 
-##  GitHub Stats  
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&theme=tokyonight) 
+
+##  Certifications (Highlights)
+- **IBM**: Data Science, Machine Learning, Deep Learning & RL, Generative AI, SQL & Databases, Data Visualization  
+- **Microsoft**: Azure Machine Learning, Foundations of AI & ML  
+- **Google Cloud**: How Google Does ML, Production ML Systems  
+- **DeepLearning.AI**: Supervised ML: Regression & Classification  
+- **University of Washington**: Machine Learning Foundations  
+- **Finance Specializations**: Portfolio Construction (EDHEC), Trading ML & GCP (NYIF), Python & Statistics for Finance (HKUST)  
+
+ *Full list available on LinkedIn*  
 
 ---
 
-##  Connect With Me  
--  Email: [amirhosseinhonardoust@gmail.com](mailto:amirhosseinhonardoust@gmail.com)  
--  LinkedIn: [linkedin.com/in/honardoust](https://linkedin.com/in/honardoust)  
--  GitHub: [github.com/AmirhosseinHonardoust](https://github.com/AmirhoseinHonardoust)  
+##  Featured Projects
+
+Here are some of my best open-source projects:   
+
+-  [**Stock-LSTM-Forecasting**](https://github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting) — End-to-end LSTM pipeline for time-series forecasting with reproducible metrics and plots.  
+-  [**Image-Captioning-CNN-LSTM**](https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM) — CNN encoder + LSTM decoder to generate captions, with BLEU evaluation.  
+-  [**Sentiment-Analysis-BERT**](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) — Fine-tuned BERT model for text sentiment analysis with evaluation and visualizations.  
+-  [**Sales-Data-Analysis**](https://github.com/AmirhosseinHonardoust/Sales-Data-Analysis) — Exploratory analysis and insights from sales datasets.  
+-  [**Demand-Forecasting**](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) — Predicting product demand with ML models for retail & e-commerce.  
+-  [**Movie-Recommendation-System**](https://github.com/AmirhosseinHonardoust/Movie-Recommendation-System) — Personalized recommender system using collaborative and content-based filtering.  
 
 ---
 
- *“AI is not just about algorithms, it’s about creating solutions that make life smarter and decisions faster.”*  
+##  GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&theme=tokyonight)  
+
+---
+
+##  Let’s Connect
+
+-  [LinkedIn](https://www.linkedin.com/in/amirhosseinhonardoust)  
+-  [Portfolio Projects](https://github.com/AmirhosseinHonardoust)  
+-  Email: amirhosseinhonardoust@gmail.com  
+
+---
+
+*“AI is not just about models — it’s about systems that create measurable impact.”*  
