@@ -83,4 +83,4 @@ Here are some of my best open-source projects:
 
 ---
 
-*“AI is not just about models — it’s about systems that create measurable impact.”*  
+*“AI is not just about models, it’s about systems that create measurable impact.”*  
