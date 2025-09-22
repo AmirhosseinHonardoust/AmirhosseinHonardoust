@@ -79,7 +79,7 @@ Here are some of my best open-source projects:
 
 -  [LinkedIn](https://www.linkedin.com/in/honardoust)  
 -  [Portfolio Projects](https://github.com/AmirhosseinHonardoust)  
--  Email: amirhosseinhonardoust@gmail.com  
+-  <a href="mailto:amirhosseinhonardoust@gmail.com">Example mailto link</a> 
 
 ---
 
