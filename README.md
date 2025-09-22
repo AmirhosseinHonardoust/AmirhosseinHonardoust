@@ -77,7 +77,7 @@ Here are some of my best open-source projects:
 
 ##  Let’s Connect
 
--  [LinkedIn](https://www.linkedin.com/in/amirhosseinhonardoust)  
+-  [LinkedIn](https://www.linkedin.com/in/honardoust)  
 -  [Portfolio Projects](https://github.com/AmirhosseinHonardoust)  
 -  Email: amirhosseinhonardoust@gmail.com  
 
