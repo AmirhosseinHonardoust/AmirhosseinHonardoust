@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm AmirHossein Honardoust</h1>
 
 <h3 align="center">Machine Learning Engineer & Data Scientist
-<h3 align="center">Turning AI into real-world systems • Deep Learning • Cloud ML (GCP, Azure, IBM) • Algorithmic Trading  
+<h3 align="center">Turning AI into real-world systems • Deep Learning • Cloud ML (GCP, Azure, IBM) • Algorithmic Trading
 <p align="center">
   <!-- Replace with any GIF you like -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
