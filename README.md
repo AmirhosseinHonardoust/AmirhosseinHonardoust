@@ -45,7 +45,7 @@ Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communic
 
 ##  Certifications (Highlights)
 - **IBM**: Data Science, Machine Learning, Deep Learning & RL, Generative AI, SQL & Databases, Data Visualization
-- **Microsoft**: Azure Machine Learning, Foundations of AI & ML  
+- **Microsoft**: Azure Machine Learning, Foundations of AI & ML 
 - **Google Cloud**: How Google Does ML, Production ML Systems
 - **DeepLearning.AI**: Supervised ML: Regression & Classification
 - **University of Washington**: Machine Learning Foundations
