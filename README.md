@@ -47,8 +47,8 @@ Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communic
 - **IBM**: Data Science, Machine Learning, Deep Learning & RL, Generative AI, SQL & Databases, Data Visualization  
 - **Microsoft**: Azure Machine Learning, Foundations of AI & ML  
 - **Google Cloud**: How Google Does ML, Production ML Systems
-- **DeepLearning.AI**: Supervised ML: Regression & Classification  
-- **University of Washington**: Machine Learning Foundations  
+- **DeepLearning.AI**: Supervised ML: Regression & Classification
+- **University of Washington**: Machine Learning Foundations
 - **Finance Specializations**: Portfolio Construction (EDHEC), Trading ML & GCP (NYIF), Python & Statistics for Finance (HKUST)  
 
  *Full list available on LinkedIn*  
