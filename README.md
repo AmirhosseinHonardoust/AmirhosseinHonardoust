@@ -27,7 +27,7 @@ I am a Machine Learning Engineer and Data Scientist with a background in **Physi
 Python • SQL • Git • REST APIs • Jupyter • Docker  
 
 **Machine Learning & AI**  
-Scikit-learn • XGBoost • PyTorch • TensorFlow • Keras • MLOps  
+Scikit-learn • XGBoost • PyTorch • TensorFlow • Keras • MLOps 
 
 **Deep Learning**  
 CNNs • LSTMs/RNNs • Transformers • Reinforcement Learning • Generative AI 
