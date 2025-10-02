@@ -57,7 +57,7 @@ Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communic
 
 ##  Featured Projects
 
-Here are some of my best open-source projects:   
+Here are some of my best open-source projects:  
 
 -  [**Stock-LSTM-Forecasting**](https://github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting) — End-to-end LSTM pipeline for time-series forecasting with reproducible metrics and plots.  
 -  [**Image-Captioning-CNN-LSTM**](https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM) — CNN encoder + LSTM decoder to generate captions, with BLEU evaluation.  
