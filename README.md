@@ -23,7 +23,7 @@ I am a Machine Learning Engineer and Data Scientist with a background in **Physi
 
 ##  Skills
 
-**Programming & Tools** 
+**Programming & Tools**
 Python • SQL • Git • REST APIs • Jupyter • Docker  
 
 **Machine Learning & AI**  
