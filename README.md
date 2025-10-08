@@ -51,7 +51,7 @@ Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communic
 - **University of Washington**: Machine Learning Foundations
 - **Finance Specializations**: Portfolio Construction (EDHEC), Trading ML & GCP (NYIF), Python & Statistics for Finance (HKUST)  
 
- *Full list available on LinkedIn*  
+ *Full list available on LinkedIn* 
 
 ---
 
