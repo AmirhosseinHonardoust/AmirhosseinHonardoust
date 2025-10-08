@@ -30,7 +30,7 @@ Python • SQL • Git • REST APIs • Jupyter • Docker
 Scikit-learn • XGBoost • PyTorch • TensorFlow • Keras • MLOps 
 
 **Deep Learning**  
-CNNs • LSTMs/RNNs • Transformers • Reinforcement Learning • Generative AI 
+CNNs • LSTMs/RNNs • Transformers • Reinforcement Learning • Generative AI
 
 **Cloud & Data Engineering**  
 Google Cloud • Microsoft Azure • IBM Cloud • Data Pipelines • Big Data Tools
