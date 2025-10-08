@@ -39,7 +39,7 @@ Google Cloud • Microsoft Azure • IBM Cloud • Data Pipelines • Big Data T
 MQL5 • Algorithmic Trading • Risk Management • Time Series Forecasting • Quantitative Modeling  
 
 **Visualization & Communication**  
-Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communication 
+Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communication
 
 ---
 
