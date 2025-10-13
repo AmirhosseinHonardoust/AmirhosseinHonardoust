@@ -16,7 +16,7 @@ I am a Machine Learning Engineer and Data Scientist with a background in **Physi
 -  I build **MQL5-based trading bots** with advanced strategies, robust risk controls, and real-time analytics.  
 -  I work across the **full ML lifecycle** data collection, preprocessing, feature engineering, model development, deployment, and monitoring.  
 -  Experienced with **cloud ML platforms (GCP, Azure, IBM Cloud)** and production ML pipelines.
--  Passionate about **time series forecasting, deep learning, NLP, and recommender systems**.
+-  Passionate about **time series forecasting, deep learning, NLP, and recommender systems**. 
 -  My mission: **turning AI into production-ready systems** that deliver measurable business impact. 
 
 ---
