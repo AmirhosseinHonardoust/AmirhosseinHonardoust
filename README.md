@@ -63,7 +63,7 @@ Here are some of my best open-source projects:
 -  [**Image-Captioning-CNN-LSTM**](https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM) — CNN encoder + LSTM decoder to generate captions, with BLEU evaluation.  
 -  [**Sentiment-Analysis-BERT**](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) — Fine-tuned BERT model for text sentiment analysis with evaluation and visualizations.
 -  [**Sales-Data-Analysis**](https://github.com/AmirhosseinHonardoust/Sales-Data-Analysis) — Exploratory analysis and insights from sales datasets.
--  [**Demand-Forecasting**](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) — Predicting product demand with ML models for retail & e-commerce.
+-  [**Demand-Forecasting**](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) — Predicting product demand with ML models for retail & e-commerce. 
 -  [**Movie-Recommendation-System**](https://github.com/AmirhosseinHonardoust/Movie-Recommendation-System) — Personalized recommender system using collaborative and content-based filtering. 
 
 ---
