@@ -17,7 +17,7 @@ I am a Machine Learning Engineer and Data Scientist with a background in **Physi
 -  I work across the **full ML lifecycle** data collection, preprocessing, feature engineering, model development, deployment, and monitoring.  
 -  Experienced with **cloud ML platforms (GCP, Azure, IBM Cloud)** and production ML pipelines.
 -  Passionate about **time series forecasting, deep learning, NLP, and recommender systems**.
--  My mission: **turning AI into production-ready systems** that deliver measurable business impact.
+-  My mission: **turning AI into production-ready systems** that deliver measurable business impact. 
 
 ---
 
