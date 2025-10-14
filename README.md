@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me 
+##  About Me
 I am a Machine Learning Engineer and Data Scientist with a background in **Physics** and more than **6 years of experience in algorithmic Forex trading, risk management, and AI automation**.
 
 -  I build **MQL5-based trading bots** with advanced strategies, robust risk controls, and real-time analytics. 
