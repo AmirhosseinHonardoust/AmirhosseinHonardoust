@@ -35,7 +35,7 @@ CNNs • LSTMs/RNNs • Transformers • Reinforcement Learning • Generative A
 **Cloud & Data Engineering**  
 Google Cloud • Microsoft Azure • IBM Cloud • Data Pipelines • Big Data Tools
 
-**Finance & Quant** 
+**Finance & Quant**  
 MQL5 • Algorithmic Trading • Risk Management • Time Series Forecasting • Quantitative Modeling
 
 **Visualization & Communication**  
