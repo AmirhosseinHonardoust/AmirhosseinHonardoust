@@ -59,12 +59,12 @@ Matplotlib • Seaborn • Power BI • Data Storytelling • Technical Communic
 
 Here are some of my best open-source projects:  
 
--  [**Stock-LSTM-Forecasting**](https://github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting) — End-to-end LSTM pipeline for time-series forecasting with reproducible metrics and plots. 
--  [**Image-Captioning-CNN-LSTM**](https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM) — CNN encoder + LSTM decoder to generate captions, with BLEU evaluation.  
--  [**Sentiment-Analysis-BERT**](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) — Fine-tuned BERT model for text sentiment analysis with evaluation and visualizations.
--  [**Sales-Data-Analysis**](https://github.com/AmirhosseinHonardoust/Sales-Data-Analysis) — Exploratory analysis and insights from sales datasets.
--  [**Demand-Forecasting**](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) — Predicting product demand with ML models for retail & e-commerce. 
--  [**Movie-Recommendation-System**](https://github.com/AmirhosseinHonardoust/Movie-Recommendation-System) — Personalized recommender system using collaborative and content-based filtering. 
+-  [**Stock-LSTM-Forecasting**](https://github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting) | End-to-end LSTM pipeline for time-series forecasting with reproducible metrics and plots. 
+-  [**Image-Captioning-CNN-LSTM**](https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM) | CNN encoder + LSTM decoder to generate captions, with BLEU evaluation.  
+-  [**Sentiment-Analysis-BERT**](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) | Fine-tuned BERT model for text sentiment analysis with evaluation and visualizations.
+-  [**Sales-Data-Analysis**](https://github.com/AmirhosseinHonardoust/Sales-Data-Analysis) | Exploratory analysis and insights from sales datasets.
+-  [**Demand-Forecasting**](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) | Predicting product demand with ML models for retail & e-commerce. 
+-  [**Movie-Recommendation-System**](https://github.com/AmirhosseinHonardoust/Movie-Recommendation-System) | Personalized recommender system using collaborative and content-based filtering. 
 
 ---
 
