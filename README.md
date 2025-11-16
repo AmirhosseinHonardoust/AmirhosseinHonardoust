@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&theme=tokyonight" />
