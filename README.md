@@ -1,4 +1,4 @@
-<h1 align="center">I'm AmirHossein Honardoust</h1>
+<h1 align="center">AmirHossein Honardoust</h1>
 
 <p align="center">
   <b>Data Scientist & Machine Learning Engineer</b><br/>
