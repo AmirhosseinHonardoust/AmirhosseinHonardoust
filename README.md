@@ -42,7 +42,7 @@
 ---
  
 ## Tech Snapshot
-
+ 
 **Languages & Tools**
 
 - **Languages**: Python, SQL, MQL5, a bit of Solidity
