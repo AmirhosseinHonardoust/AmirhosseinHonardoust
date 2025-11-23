@@ -63,7 +63,7 @@
 - Algorithmic trading & financial modeling
 
 ---
-
+ 
 ## How to Navigate My Work
 
 I organize my projects into a few **clusters** so you can jump directly to what interests you:
