@@ -40,7 +40,7 @@
 - I enjoy writing **deep, structured explanations**, many repos are part code, part essay.
 
 ---
-
+ 
 ## Tech Snapshot
 
 **Languages & Tools**
