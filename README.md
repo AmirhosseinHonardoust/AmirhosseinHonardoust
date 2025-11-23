@@ -44,7 +44,7 @@
 ## Tech Snapshot
  
 **Languages & Tools**
-
+ 
 - **Languages**: Python, SQL, MQL5, a bit of Solidity
 - **ML / DL**: PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, LightGBM
 - **Time Series & Forecasting**: ARIMA/SARIMA, Prophet, LSTMs, rolling windows
