@@ -53,7 +53,7 @@
 - **MLOps-ish / Analysis**: SHAP, feature importance, evaluation frameworks, synthetic data benchmarks
  
 **Domains & Topics**
-
+ 
 - Synthetic & tabular data quality
 - Forecasting & scenario simulation
 - Recommender systems
