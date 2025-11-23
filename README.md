@@ -51,7 +51,7 @@
 - **NLP**: BERT, TF-IDF, classic ML (LogReg, Naive Bayes, SVM)
 - **Apps & Services**: Streamlit, FastAPI, Plotly, SQLite/SQLAlchemy
 - **MLOps-ish / Analysis**: SHAP, feature importance, evaluation frameworks, synthetic data benchmarks
-
+ 
 **Domains & Topics**
 
 - Synthetic & tabular data quality
