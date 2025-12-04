@@ -18,7 +18,7 @@
   <img alt="github stats" height="210px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&show_icons=tru&theme=tokyonight" />
 </p>
 
 ---
