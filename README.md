@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/AmirhosseinHonardoust?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-green?style=flat&logo=github&logoColor=black">
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/honardoust">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-honardoust-0A66C2?style=flat&logo=linkedin">
   </a>
