@@ -1,6 +1,6 @@
 <h1 align="center">Amirhossein Honardoust</h1> 
-                 
-<p align="center"> 
+                
+<p align="center">
   <b>Data Scientist • Machine Learning Engineer</b><br/>
   I design <b>data-centric</b>, <b>explainable</b>, and <b>interactive</b> AI systems.
 </p>    
