@@ -15,8 +15,6 @@
   <a href="mailto:amirhosseinhonardoust@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/amirhosseinhonardoust@gmail.com-gray?style=flat&logo=gmail&logoColor=red">
   </a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/AmirhosseinHonardoust?style=flat&logo=github&logoColor=black">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AmirhosseinHonardoust/AmirhosseinHonardoust?style=flat&logo=github&logoColor=black">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
