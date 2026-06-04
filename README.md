@@ -1,221 +1,181 @@
-<h1 align="center">Amirhossein Honardoust</h1> 
+<div align="center">
 
-<p align="center">
-  <b>Data Scientist • Machine Learning Engineer</b><br/>
-  I design <b>data-centric</b>, <b>explainable</b>, and <b>interactive</b> AI systems.
-</p>
-  
-<p align="center">
-  <a href="https://github.com/AmirhosseinHonardoust?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-green?style=flat&logo=github&logoColor=black">
-  </a> 
-  <a href="https://www.linkedin.com/in/honardoust">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-honardoust-0A66C2?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:amirhosseinhonardoust@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/amirhosseinhonardoust@gmail.com-gray?style=flat&logo=gmail&logoColor=red">
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-111?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-111?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-111?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=white" />
-</p>
-<p align="center">
-  <img alt="github stats" height="210px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&show_icons=tru&theme=tokyonight" />
-</p>
-  
----
+# Amirhossein Honardoust
 
-## Start here
-If you only check a few repos, these show my “core themes” best:
+### Data Scientist • Machine Learning Engineer • Applied AI Builder
 
-- **Graph-RAG-Engine** | Explainable, data-grounded RAG using vector search + knowledge graph (systems-thinking approach).  
-   https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine
-- **Forecast-Factory** | Streamlit forecasting + scenario simulation for business-friendly decision support.  
-   https://github.com/AmirhosseinHonardoust/Forecast-Factory
-- **Synthetic-Data-Artist** | “Microscope” for tabular synthetic data realism (copula vs VAE, distribution & structure checks).  
-   https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist
-- **Data-Storytelling-Dashboard** | Narrative analytics dashboard (KPIs + cohorts + retention + takeaways).  
-   https://github.com/AmirhosseinHonardoust/Data-Storytelling-Dashboard
-- **Sentiment-Analysis-BERT** | Clean transformer fine-tuning pipeline + evaluation artifacts.  
-   https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT
-- **Think-Like-a-Data-Scientist** | Long-form mindset + framing + experimentation guide.  
-   https://github.com/AmirhosseinHonardoust/Think-Like-a-Data-Scientist
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=850&lines=Building+explainable+and+interactive+AI+systems;RAG+%E2%80%A2+Risk+ML+%E2%80%A2+Synthetic+Data+%E2%80%A2+NLP;Turning+models+into+usable+decision+tools" alt="Typing animation" />
+
+<br />
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosseinhonardoust@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-honardoust-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/honardoust/)
+[![X](https://img.shields.io/badge/X-amirhonardoust-000000?style=for-the-badge&logo=x)](https://x.com/amirhonardoust)
+
+</div>
 
 ---
 
-## What I do
-- Build end-to-end ML: **problem framing → data → modeling → evaluation → deployment** (Streamlit / FastAPI).
-- Focus areas:
-  - **Synthetic data & robustness** (fidelity, coverage, privacy leakage, downstream ML utility)
-  - **Forecasting & decision tools** (scenario simulation, interactive dashboards)
-  - **LLMs + RAG + hybrid systems** (traceability, grounding, graphs)
-  - **Explainability & human-centered AI** (SHAP, interpretability, “why” behind predictions)
+## About me
 
-**Open to**: interesting ML/DS roles and serious collaborations (product-y ML, data apps, applied research).
+I build **data-centric, explainable, and interactive AI systems** — from problem framing and data pipelines to model evaluation, dashboards, APIs, and decision-support tools.
 
----
+My work focuses on projects where machine learning is not only trained, but also **tested, explained, documented, and connected to a real user or business decision**.
 
-## Tech snapshot
-- **Languages:** Python, SQL, MQL5, Solidity  
-- **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, LightGBM  
-- **Time series:** ARIMA/SARIMA, Prophet, LSTMs, rolling windows  
-- **NLP:** BERT, TF-IDF, classic ML (LogReg, Naive Bayes, SVM)  
-- **Apps/Services:** Streamlit, FastAPI, Plotly, SQLite/SQLAlchemy  
-- **Explainability/analysis:** SHAP, feature importance, evaluation frameworks, synthetic benchmarks  
+**Main focus areas:**
+
+- Retrieval-Augmented Generation and graph-based AI systems
+- Risk modeling, fraud detection, underwriting, and decision safety
+- NLP systems with responsible evaluation and uncertainty handling
+- Synthetic data generation and realism evaluation
+- SQL + Python machine learning workflows
+- Streamlit/FastAPI apps for interactive model use
+
+**Open to:** Data Scientist, Machine Learning Engineer, and Applied AI roles, especially projects involving explainability, decision support, and production-minded ML workflows.
 
 ---
 
-## Navigation
-- [Synthetic Data, Data Realism & Anomaly Detection](#synthetic-data-data-realism--anomaly-detection)
-- [Forecasting, Dashboards & Interactive ML](#forecasting-dashboards--interactive-ml)
-- [LLMs, RAG & Hybrid AI Systems](#llms-rag--hybrid-ai-systems)
-- [Core ML, Deep Learning & Portfolio](#core-ml-deep-learning--portfolio)
-- [Explainability & AI Philosophy](#explainability--ai-philosophy)
-- [Smart Contracts, Security & Risk Analytics](#smart-contracts-security--risk-analytics)
+## Featured projects
+
+<div align="center">
+
+| Project | Area | Why it matters |
+|---|---|---|
+| [Fake-News-Detector](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) | NLP / Responsible AI | TF-IDF + Logistic Regression style-risk detector with Streamlit, CLI prediction, uncertainty handling, leakage analysis, tests, and CI. |
+| [Coffee-Shop-Profit-Predictor](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) | SQL + Machine Learning | End-to-end site-selection workflow with SQL feature engineering, regression modeling, model comparison, candidate ranking, tests, and CI. |
+| [Graph-RAG-Engine](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) | RAG / LLM Systems | Explainable Graph + Vector + RAG system with FAISS retrieval, knowledge graph reasoning paths, FastAPI backend, and Streamlit UI. |
+| [Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) | Synthetic Data / Generative ML | Research-style comparison of Gaussian Copula and VAE methods with distribution checks, correlation analysis, PCA diagnostics, and visual reports. |
+| [Financial-Fraud-Risk-Engine](https://github.com/AmirhosseinHonardoust/Financial-Fraud-Risk-Engine) | Fraud Detection / Risk ML | Cost-sensitive fraud detection system with SHAP explanations, threshold optimization, batch scoring, and an interactive dashboard. |
+| [Underwriting-Decision-Safety-Lab](https://github.com/AmirhosseinHonardoust/Underwriting-Decision-Safety-Lab) | Decision Safety / Risk ML | Loan approval safety lab with probability calibration, abstention policies, coverage-quality tradeoffs, triage UI, and data quality checks. |
+
+</div>
 
 ---
 
-## Synthetic Data, Data Realism & Anomaly Detection
-> Generating realistic tables, probing data “authenticity”, and stress-testing models.
+## What I build
 
-Top picks:
-- **Autocurator-Synthetic-Data-Benchmark** | Synthetic tabular benchmarking (fidelity/coverage/privacy/utility + visual reports).  
-  https://github.com/AmirhosseinHonardoust/Autocurator-Synthetic-Data-Benchmark
-- **Synthetic-Data-Artist** | Copula vs VAE deep dive + realism diagnostics.  
-  https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist
-- **Anomaly-Detection** | End-to-end anomaly detection with injected realistic “weirdness”.  
-  https://github.com/AmirhosseinHonardoust/Anomaly-Detection
+### Machine learning systems
 
-<details>
-  <summary><b>More in this cluster</b></summary>
+Projects that move beyond notebooks into repeatable workflows:
 
-- Market-Basket-Analysis | Apriori/FP-Growth + association rules  
-  https://github.com/AmirhosseinHonardoust/Market-Basket-Analysis
-- Sales-Data-Analysis | Synthetic sales generation + KPIs + trends  
-  https://github.com/AmirhosseinHonardoust/Sales-Data-Analysis
-- Missing-Data-Doctor | Missingness profiling + imputation + before/after ML impact  
-  https://github.com/AmirhosseinHonardoust/Missing-Data-Doctor
-- Noise-Injection-Techniques | Robustness experiments via controlled noise  
-  https://github.com/AmirhosseinHonardoust/Noise-Injection-Techniques
+- data cleaning and validation
+- feature engineering
+- train/test evaluation
+- cross-validation and model comparison
+- uncertainty and threshold handling
+- saved artifacts and reproducible outputs
+- tests and CI where appropriate
 
-</details>
+### Interactive AI tools
 
----
+I like building model interfaces that a user can actually interact with:
 
-## Forecasting, Dashboards & Interactive ML
-> Treat forecasting and analytics as interactive tools, not static reports.
+- Streamlit dashboards
+- FastAPI backends
+- CLI tools
+- batch scoring workflows
+- visual reports
+- decision-support outputs
 
-Top picks:
-- **Forecast-Factory** | Upload series → forecast + confidence intervals → “what-if” driver simulations.  
-  https://github.com/AmirhosseinHonardoust/Forecast-Factory
-- **Market-IQ** | KPI-focused BI-style analytics app for transaction data.  
-  https://github.com/AmirhosseinHonardoust/Market-IQ
-- **Data-Storytelling-Dashboard** | Cohorts, retention curves, narrative takeaways.  
-  https://github.com/AmirhosseinHonardoust/Data-Storytelling-Dashboard
+### Responsible and explainable AI
 
-<details>
-  <summary><b>More in this cluster</b></summary>
+I try to make model behavior understandable through:
 
-- Beyond-Charts-Interactive-Storytelling | Essay + interactive views (RFM, cohorts, lifecycle)  
-  https://github.com/AmirhosseinHonardoust/Beyond-Charts-Interactive-Storytelling
-- AI-Report-Factory | Repeatable report generation (KPIs + charts + narrative)  
-  https://github.com/AmirhosseinHonardoust/AI-Report-Factory
-- AI-Personal-Study-Tracker | Streamlit + SQLite + ML to surface patterns  
-  https://github.com/AmirhosseinHonardoust/AI-Personal-Study-Tracker
-- Demand-Forecasting | ARIMA/SARIMA template  
-  https://github.com/AmirhosseinHonardoust/Demand-Forecasting
-- ML-Playground-Autodetect | Upload dataset → auto detect task → baseline pipeline + eval  
-  https://github.com/AmirhosseinHonardoust/ML-Playground-Autodetect
-
-</details>
+- honest limitations
+- model cards and documentation
+- leakage analysis
+- SHAP and feature importance
+- calibration and abstention
+- uncertainty bands
+- human-review workflows
 
 ---
 
-## LLMs, RAG & Hybrid AI Systems
-> Explainable, data-grounded LLM systems with retrieval & graphs.
+## Project map
 
-Top picks:
-- **Graph-RAG-Engine** | FAISS retrieval + knowledge graph + traceability (FastAPI + optional Streamlit).  
-  https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine
-- **Designing-Hybrid-AI-Systems** | Patterns, failure modes, interpretability for hybrid intelligence.  
-  https://github.com/AmirhosseinHonardoust/Designing-Hybrid-AI-Systems
-- **RAG-vs-Fine-Tuning** | Practical decision framework (cost/latency/maintenance/data constraints).  
-  https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning
+### RAG, LLMs, and hybrid AI systems
 
----
+- [Graph-RAG-Engine](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) — Graph intelligence, vector search, and explainable retrieval-augmented generation.
+- [PR-Guardian-AI](https://github.com/AmirhosseinHonardoust/PR-Guardian-AI) — AI-assisted pull request review workflow using GitHub App patterns and OpenAI integration.
+- [RAG-vs-Fine-Tuning](https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning) — Practical framework for deciding between retrieval and fine-tuning.
+- [Designing-Hybrid-AI-Systems](https://github.com/AmirhosseinHonardoust/Designing-Hybrid-AI-Systems) — Notes and patterns for hybrid AI design.
 
-## Core ML, Deep Learning & Portfolio
-> Classic ML projects with clean structure and clear evaluation.
+### Risk, fraud, and decision safety
 
-Top picks:
-- Stock-LSTM-Forecasting | PyTorch LSTM + sliding windows + plots  
-  https://github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting
-- Image-Captioning-CNN-LSTM | ResNet encoder + LSTM decoder + BLEU + examples  
-  https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM
-- Sentiment-Analysis-BERT | Fine-tune + confusion matrix + ROC/PR curves  
-  https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT
+- [Financial-Fraud-Risk-Engine](https://github.com/AmirhosseinHonardoust/Financial-Fraud-Risk-Engine) — Fraud-risk workflow with cost-sensitive thresholding and SHAP explanations.
+- [Underwriting-Decision-Safety-Lab](https://github.com/AmirhosseinHonardoust/Underwriting-Decision-Safety-Lab) — Calibration, abstention, and defensible loan decision policies.
+- [Onchain-Security-Suite](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) — Web3 security pipeline with static analysis and deployer risk scoring.
 
-<details>
-  <summary><b>More in this cluster</b></summary>
+### Synthetic data and data realism
 
-- Sentiment-Analysis-NLP | TF-IDF + classical ML  
-  https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-NLP
-- Movie-Recommendation-System | Content + collaborative filtering (matrix factorization)  
-  https://github.com/AmirhosseinHonardoust/Movie-Recommendation-System
-- LSTM-Time-Series-Forecasting | General LSTM forecasting template  
-  https://github.com/AmirhosseinHonardoust/LSTM-Time-Series-Forecasting
-- Handwritten-Digit-GAN | DCGAN on MNIST + latent interpolation  
-  https://github.com/AmirhosseinHonardoust/Handwritten-Digit-GAN
+- [Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) — Copula vs VAE synthetic tabular data comparison and diagnostics.
+- [Autocurator-Synthetic-Data-Benchmark](https://github.com/AmirhosseinHonardoust/Autocurator-Synthetic-Data-Benchmark) — Synthetic data benchmarking across fidelity, coverage, privacy, and utility.
+- [Missing-Data-Doctor](https://github.com/AmirhosseinHonardoust/Missing-Data-Doctor) — Missingness profiling and imputation impact analysis.
 
-</details>
+### Business ML, forecasting, and dashboards
+
+- [Coffee-Shop-Profit-Predictor](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) — SQL + ML workflow for retail location profitability prediction.
+- [Forecast-Factory](https://github.com/AmirhosseinHonardoust/Forecast-Factory) — Forecasting and scenario simulation app for business decision support.
+- [Data-Storytelling-Dashboard](https://github.com/AmirhosseinHonardoust/Data-Storytelling-Dashboard) — E-commerce analytics dashboard with KPIs, cohorts, retention, and business narrative.
+- [Market-IQ](https://github.com/AmirhosseinHonardoust/Market-IQ) — BI-style analytics and KPI exploration.
+
+### NLP and classic ML
+
+- [Fake-News-Detector](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) — Responsible text classification with uncertainty handling and leakage analysis.
+- [Sentiment-Analysis-BERT](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) — BERT fine-tuning pipeline for sentiment classification.
+- [ML-Playground-Autodetect](https://github.com/AmirhosseinHonardoust/ML-Playground-Autodetect) — Interactive ML playground with automatic task detection.
 
 ---
 
-## Explainability & AI Philosophy
-> Code + essays about how we think about and interpret AI systems.
+## Tech stack
 
-Top picks:
-- Shap-Mini | Tiny SHAP demo that’s easy to learn from  
-  https://github.com/AmirhosseinHonardoust/Shap-Mini
-- Think-Like-a-Data-Scientist | Framing → hypotheses → experiments → insight → action  
-  https://github.com/AmirhosseinHonardoust/Think-Like-a-Data-Scientist
-- The-Future-of-Interactive-ML | Why UI/UX changes modeling choices  
-  https://github.com/AmirhosseinHonardoust/The-Future-of-Interactive-ML
+<div align="center">
 
-<details>
-  <summary><b>More in this cluster</b></summary>
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, Solidity, MQL5 |
+| Data | pandas, NumPy, SQLite, SQLAlchemy |
+| Machine Learning | scikit-learn, XGBoost, LightGBM, joblib |
+| Deep Learning / NLP | PyTorch, TensorFlow/Keras, Hugging Face Transformers, BERT |
+| RAG / AI Systems | FAISS, Sentence Transformers, FastAPI, Streamlit |
+| Visualization | matplotlib, Plotly, Streamlit dashboards |
+| Explainability | SHAP, feature importance, calibration, threshold analysis |
+| Workflow Quality | tests, CI, reproducible outputs, model artifacts, documentation |
 
-- Forecasting-The-Future-of-Forecasting  
-  https://github.com/AmirhosseinHonardoust/Forecasting-The-Future-of-Forecasting
-- Algorithmic-Empath-Human-Fallibility  
-  https://github.com/AmirhosseinHonardoust/Algorithmic-Empath-Human-Fallibility
-- Measuring-The-Soul-of-Data  
-  https://github.com/AmirhosseinHonardoust/Measuring-The-Soul-of-Data
-- Quiet-Machines-Minimalist-AI  
-  https://github.com/AmirhosseinHonardoust/Quiet-Machines-Minimalist-AI
-
-</details>
+</div>
 
 ---
 
-## Smart Contracts, Security & Risk Analytics
-> Applying ML & static analysis ideas to smart contracts and risk.
+## Currently improving
 
-- Python-Solidity-Feature-Engineering | Parse Solidity + extract structural/semantic features  
-  https://github.com/AmirhosseinHonardoust/Python-Solidity-Feature-Engineering
-- Smart-Contract-Risk-Analyzer | Heuristics + static analysis → risk scoring / triage direction  
-  https://github.com/AmirhosseinHonardoust/Smart-Contract-Risk-Analyzer
+- Building more production-style ML projects with tests, CI, and reproducible workflows.
+- Improving RAG systems with better retrieval evaluation, traceability, and source grounding.
+- Expanding risk and decision-safety projects with calibration, abstention, and monitoring ideas.
+- Turning analytics projects into clearer decision-support tools with stronger documentation and outputs.
 
 ---
 
-> “AI is not just about models; it’s about systems that solve real problems for real people.”
+## GitHub stats
+
+<div align="center">
+
+  <img alt="github stats" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&show_icons=true&theme=tokyonight" />
+
+</div>
+
+---
+
+## Contact
+
+- Email: [amirhosseinhonardoust@gmail.com](mailto:amirhosseinhonardoust@gmail.com)
+- LinkedIn: [honardoust](https://www.linkedin.com/in/honardoust/)
+- X: [@amirhonardoust](https://x.com/amirhonardoust)
+
+---
+
+<div align="center">
+
+**AI is not just about models; it is about systems that solve real problems for real people.**
+
+</div>
