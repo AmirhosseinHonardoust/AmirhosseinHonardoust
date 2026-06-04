@@ -18,7 +18,7 @@
 
 ## About me
 
-I build **data-centric, explainable, and interactive AI systems** — from problem framing and data pipelines to model evaluation, dashboards, APIs, and decision-support tools.
+I build **data-centric, explainable, and interactive AI systems**, from problem framing and data pipelines to model evaluation, dashboards, APIs, and decision-support tools.
 
 My work focuses on projects where machine learning is not only trained, but also **tested, explained, documented, and connected to a real user or business decision**.
 
@@ -95,35 +95,35 @@ I try to make model behavior understandable through:
 
 ### RAG, LLMs, and hybrid AI systems
 
-- [Graph-RAG-Engine](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) — Graph intelligence, vector search, and explainable retrieval-augmented generation.
-- [PR-Guardian-AI](https://github.com/AmirhosseinHonardoust/PR-Guardian-AI) — AI-assisted pull request review workflow using GitHub App patterns and OpenAI integration.
-- [RAG-vs-Fine-Tuning](https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning) — Practical framework for deciding between retrieval and fine-tuning.
-- [Designing-Hybrid-AI-Systems](https://github.com/AmirhosseinHonardoust/Designing-Hybrid-AI-Systems) — Notes and patterns for hybrid AI design.
+- [Graph-RAG-Engine](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) | Graph intelligence, vector search, and explainable retrieval-augmented generation.
+- [PR-Guardian-AI](https://github.com/AmirhosseinHonardoust/PR-Guardian-AI) | AI-assisted pull request review workflow using GitHub App patterns and OpenAI integration.
+- [RAG-vs-Fine-Tuning](https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning) | Practical framework for deciding between retrieval and fine-tuning.
+- [Designing-Hybrid-AI-Systems](https://github.com/AmirhosseinHonardoust/Designing-Hybrid-AI-Systems) | Notes and patterns for hybrid AI design.
 
 ### Risk, fraud, and decision safety
 
-- [Financial-Fraud-Risk-Engine](https://github.com/AmirhosseinHonardoust/Financial-Fraud-Risk-Engine) — Fraud-risk workflow with cost-sensitive thresholding and SHAP explanations.
-- [Underwriting-Decision-Safety-Lab](https://github.com/AmirhosseinHonardoust/Underwriting-Decision-Safety-Lab) — Calibration, abstention, and defensible loan decision policies.
-- [Onchain-Security-Suite](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) — Web3 security pipeline with static analysis and deployer risk scoring.
+- [Financial-Fraud-Risk-Engine](https://github.com/AmirhosseinHonardoust/Financial-Fraud-Risk-Engine) | Fraud-risk workflow with cost-sensitive thresholding and SHAP explanations.
+- [Underwriting-Decision-Safety-Lab](https://github.com/AmirhosseinHonardoust/Underwriting-Decision-Safety-Lab) | Calibration, abstention, and defensible loan decision policies.
+- [Onchain-Security-Suite](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) | Web3 security pipeline with static analysis and deployer risk scoring.
 
 ### Synthetic data and data realism
 
-- [Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) — Copula vs VAE synthetic tabular data comparison and diagnostics.
-- [Autocurator-Synthetic-Data-Benchmark](https://github.com/AmirhosseinHonardoust/Autocurator-Synthetic-Data-Benchmark) — Synthetic data benchmarking across fidelity, coverage, privacy, and utility.
-- [Missing-Data-Doctor](https://github.com/AmirhosseinHonardoust/Missing-Data-Doctor) — Missingness profiling and imputation impact analysis.
+- [Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) | Copula vs VAE synthetic tabular data comparison and diagnostics.
+- [Autocurator-Synthetic-Data-Benchmark](https://github.com/AmirhosseinHonardoust/Autocurator-Synthetic-Data-Benchmark) | Synthetic data benchmarking across fidelity, coverage, privacy, and utility.
+- [Missing-Data-Doctor](https://github.com/AmirhosseinHonardoust/Missing-Data-Doctor) | Missingness profiling and imputation impact analysis.
 
 ### Business ML, forecasting, and dashboards
 
-- [Coffee-Shop-Profit-Predictor](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) — SQL + ML workflow for retail location profitability prediction.
-- [Forecast-Factory](https://github.com/AmirhosseinHonardoust/Forecast-Factory) — Forecasting and scenario simulation app for business decision support.
-- [Data-Storytelling-Dashboard](https://github.com/AmirhosseinHonardoust/Data-Storytelling-Dashboard) — E-commerce analytics dashboard with KPIs, cohorts, retention, and business narrative.
-- [Market-IQ](https://github.com/AmirhosseinHonardoust/Market-IQ) — BI-style analytics and KPI exploration.
+- [Coffee-Shop-Profit-Predictor](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) | SQL + ML workflow for retail location profitability prediction.
+- [Forecast-Factory](https://github.com/AmirhosseinHonardoust/Forecast-Factory) | Forecasting and scenario simulation app for business decision support.
+- [Data-Storytelling-Dashboard](https://github.com/AmirhosseinHonardoust/Data-Storytelling-Dashboard) | E-commerce analytics dashboard with KPIs, cohorts, retention, and business narrative.
+- [Market-IQ](https://github.com/AmirhosseinHonardoust/Market-IQ) | BI-style analytics and KPI exploration.
 
 ### NLP and classic ML
 
-- [Fake-News-Detector](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) — Responsible text classification with uncertainty handling and leakage analysis.
-- [Sentiment-Analysis-BERT](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) — BERT fine-tuning pipeline for sentiment classification.
-- [ML-Playground-Autodetect](https://github.com/AmirhosseinHonardoust/ML-Playground-Autodetect) — Interactive ML playground with automatic task detection.
+- [Fake-News-Detector](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) | Responsible text classification with uncertainty handling and leakage analysis.
+- [Sentiment-Analysis-BERT](https://github.com/AmirhosseinHonardoust/Sentiment-Analysis-BERT) | BERT fine-tuning pipeline for sentiment classification.
+- [ML-Playground-Autodetect](https://github.com/AmirhosseinHonardoust/ML-Playground-Autodetect) | Interactive ML playground with automatic task detection.
 
 ---
 
