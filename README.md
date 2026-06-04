@@ -159,8 +159,8 @@ I try to make model behavior understandable through:
 
 <div align="center">
 
-  <img alt="github stats" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=AmirhosseinHonardoust&show_icons=true&theme=radical" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=AmirhosseinHonardoust&layout=compact&show_icons=true&theme=radical" />
 
 </div>
 
