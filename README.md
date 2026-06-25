@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+                                  
 ## About me
 
 I build **data-centric, explainable, and interactive AI systems**, from problem framing and data pipelines to model evaluation, dashboards, APIs, and decision-support tools.
