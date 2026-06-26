@@ -1,7 +1,7 @@
 <div align="center">
 
 # Amirhossein Honardoust
-
+ 
 ### Data Scientist • Machine Learning Engineer • Applied AI Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=850&lines=Building+explainable+and+interactive+AI+systems;RAG+%E2%80%A2+Risk+ML+%E2%80%A2+Synthetic+Data+%E2%80%A2+NLP;Turning+models+into+usable+decision+tools" alt="Typing animation" />
